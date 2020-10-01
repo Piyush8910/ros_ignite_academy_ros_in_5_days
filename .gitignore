@@ -25,11 +25,11 @@ devel_isolated/
 *.dox
 *.wikidoc
 
-# eclipse stuff
+# eclipse stuffs
 .project
 .cproject
 
-# qcreator stuff
+# qcreator stuffs
 CMakeLists.txt.user
 
 srv/_*.py
